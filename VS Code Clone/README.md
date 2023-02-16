@@ -23,7 +23,7 @@ Time : 10 Hour 30 min
 
 <br>
 
-### My Solution Link ( Responsive Version ): [Website Link](https://sm8uti.github.io/Ineuron-Full-JavaScript-2.0/Tailwind%20Projects/Vscode%20Clone/)
+### My Solution Link ( Responsive Version ): [Website Link](https://visual-studio-code-clone-webpage.netlify.app/)
 
 <br>
 
