@@ -1,4 +1,4 @@
-## Full Stack JavaScript 3.0 ( Project - 1 Tailwind )
+## Full Stack JavaScript 2.0 ( Project - 1 Tailwind )
 
 ### 💻 Website name : `VScode Website Clone`
 
