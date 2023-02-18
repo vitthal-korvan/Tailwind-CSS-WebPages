@@ -1,6 +1,6 @@
 ## Full Stack JavaScript 2.0 ( Project - 1 Tailwind )
 
-### 💻 Website name : `VScode Website Clone`
+### 💻 Website name : `VScode Website Clone:`
 
 
 In this project, I learned the Tailwind CSS framework. It is so popular framework and easy to make a responsive website. this framework uses different classes to design the website.
