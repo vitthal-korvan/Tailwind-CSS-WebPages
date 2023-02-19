@@ -16,7 +16,7 @@ Time : 10 Hour 30 min
 
 <br>
 
-### 👨‍💻 Tech Stack
+### 👨‍💻 Tech Stack:
 
 - HTML
 - Tailwind CSS
