@@ -1,36 +1,43 @@
-## Full Stack JavaScript 3.0 ( Project - 1 Tailwind )
+# VS Code Clone:
 
-### 💻 Website name : `VScode Website Clone`
-
-
-In this project, I learned the Tailwind CSS framework. It is so popular framework and easy to make a responsive website. this framework uses different classes to design the website.
-
-Tailwind CSS Document : [Link](https://tailwindcss.com/docs/installation)
-
-VSCODE ORIGINAL WEBSITE : [Link](https://code.visualstudio.com/)
+![image](https://img.shields.io/badge/HTML-TailwindCSS-orange)
 
 
-<br>
+## About:
 
-Time : 10 Hour 30 min
+This project is created using HTML and CSS. I have used CSS Positioning to build this project, and this project is fully responsive. 
 
-<br>
+## ⚙️ What did I learn by making this project?
 
-### 👨‍💻 Tech Stack
+-   learn Tailwind CSS.
+-   learn Tailwind Installation. 
+-   learn Tailwind Classes and ID.
+-   learn Tailwind Media Screen.
 
-- HTML
-- Tailwind CSS
+<hr>
 
-<br>
+## ▶️ Live Project Link:
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://visual-studio-code-clone-webpage.netlify.app/)
 
-### My Solution Link ( Responsive Version ): [Website Link](https://sm8uti.github.io/Ineuron-Full-JavaScript-2.0/Tailwind%20Projects/Vscode%20Clone/)
+<hr>
 
-<br>
+## 📷 Screenshots:
 
-### ScreenShot
+### Desktop View:
 
-<br>
+![image](https://github.com/vitthal-korvan/Tailwind-CSS-WebPages/blob/main/VS%20Code%20Clone/assets/Screebshots/desktop_view.png)
 
-#### PC
+<hr>
 
-<img src="output.png" width="100%">
+### Medium Screen / Tablet View:
+
+![image](https://github.com/vitthal-korvan/Tailwind-CSS-WebPages/blob/main/VS%20Code%20Clone/assets/Screebshots/tablet_view.png)
+
+<hr>
+
+### Mobile View:
+
+![image](https://github.com/vitthal-korvan/Tailwind-CSS-WebPages/blob/main/VS%20Code%20Clone/assets/Screebshots/mobile_view.png)
+
+
+
